@@ -14,9 +14,7 @@
 #app-mount::before {
     content: "";
     position: absolute;
-    background: rgb(248, 241, 212) 100%
-        
-    );
+    background: rgb(248, 241, 212) 100%);
     height: calc(100vh + (var(--background-image-blur) * 2));
     width: calc(100vw + (var(--background-image-blur) * 2));
 }
