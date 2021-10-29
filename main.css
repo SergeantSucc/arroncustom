@@ -35,20 +35,6 @@
   background-color: var(--background-secondary);
   border-radius: var(--border-radius) var(--border-radius) 0 0;
 }
-:root .threadSidebar-1o3BTy::after {
-  content: "";
-  position: fixed;
-  bottom: 85px;
-  z-index: 1;
-  width: 320px;
-  height: 35px;
-  background-color: var(--background-secondary);
-  border-radius: 0 0 var(--border-radius) var(--border-radius);
-  background-image: linear-gradient(to right, var(--header-primary) 33%, rgba(255, 255, 255, 0) 0%);
-  background-position: top;
-  background-size: 21px 2px;
-  background-repeat: repeat-x;
-}
 :root .embedFull-2tM8-- {
   border: none;
   margin-left: 10px;
